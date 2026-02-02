@@ -6,6 +6,14 @@
 
 Un'applicazione web interattiva che analizza oltre **5.000 estrazioni storiche** del SuperEnalotto per generare sestine basate sulla probabilità pesata delle frequenze.
 
+## [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vincenzo-superenalotto-app-hk6gw9ppvjwfbwaeqfvz29.streamlit.app/)
+## 🔗 Link Diretto all'App
+🚀 **[Clicca qui per aprire il Generatore Intelligente](https://vincenzo-superenalotto-app-hk6gw9ppvjwfbwaeqfvz29.streamlit.app/)**
+---
+### 🎰 Prova l'App sul tuo Smartphone
+👉 [VAI ALL'APP ONLINE](https://vincenzo-superenalotto-app-hk6gw9ppvjwfbwaeqfvz29.streamlit.app/)
+---
+
 ## 🚀 Funzionalità
 - **Analisi Statistica:** Elabora i dati storici dal file CSV per calcolare la frequenza di ogni numero.
 - **Generatore Pesato:** Non estrae numeri a caso, ma assegna una probabilità maggiore ai numeri che sono usciti più spesso storicamente.
